@@ -16,8 +16,10 @@ body{
 .login-container,
 .dashboard{
     background:white;
-    padding:30px;
-    width:400px;
+ 
+    width:95%;
+    max-width:1400px;
+}
     border-radius:15px;
     box-shadow:0 0 20px rgba(0,0,0,.1);
 }
